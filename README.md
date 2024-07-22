@@ -101,7 +101,7 @@ Using Pandas and Jupyter Notebook, I created a report that includes the followin
     This new DataFrame should show school performance based on the "School Type".
 
 
-PyCity School Analysis
+# PyCity School Analysis
 
 Analysis Overview:
 
