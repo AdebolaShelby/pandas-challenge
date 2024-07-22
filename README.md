@@ -116,14 +116,14 @@ Analysis Overview:
 
 # Two observable trends based on the data.
 
-The Top 5 Highest-Performing Schools by Percentage of Overall Passing
+    The Top 5 Highest-Performing Schools by Percentage of Overall Passing
     Cabrera High School: 91.3%
     Thomas High School: 90.9%
     Griffin High School: 90.6%
     Wilson High School: 90.58%
     Pena High School: 90.54%
 
-The Three Lowest-Performing Schools by Percentage of Overall Passing
+    The Three Lowest-Performing Schools by Percentage of Overall Passing
     Rodriguez High School: 52.99%
     Figueroa High School: 53.20%
     Huang High School: 53.51%
